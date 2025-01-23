@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:gamify/features/homepage/homepage_screen.dart';
+import 'package:gamify/features/homepage/presentation/homepage_screen.dart';
 
 void main() {
   runApp(const MyApp());
